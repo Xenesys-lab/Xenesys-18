@@ -1,2 +1,9 @@
 # Xenesys-18
-Xenesys notification repo 18
+
+## Notification update
+
+This is a new change in our system.
+
+Every member should focus on this update.
+
+Round: 1
